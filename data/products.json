@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Espresso",
+      "description": "Rich and bold Italian-style coffee shot",
+      "price": 25.00,
+      "category": "hot-drinks",
+      "image": "/images/espresso.jpg",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "description": "Espresso topped with steamed milk foam",
+      "price": 38.00,
+      "category": "hot-drinks",
+      "image": "/images/cappuccino.jpg",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Iced Latte",
+      "description": "Smooth espresso with cold milk over ice",
+      "price": 42.00,
+      "category": "cold-drinks",
+      "image": "/images/iced-latte.jpg",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Caramel Macchiato",
+      "description": "Vanilla-flavored drink with espresso and caramel drizzle",
+      "price": 45.00,
+      "category": "hot-drinks",
+      "image": "/images/caramel-macchiato.jpg",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Cold Brew",
+      "description": "Smooth, less acidic coffee steeped for 20 hours",
+      "price": 35.00,
+      "category": "cold-drinks",
+      "image": "/images/cold-brew.jpg",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Croissant",
+      "description": "Buttery, flaky French pastry",
+      "price": 28.00,
+      "category": "food",
+      "image": "/images/croissant.jpg",
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Blueberry Muffin",
+      "description": "Fresh-baked muffin with real blueberries",
+      "price": 25.00,
+      "category": "food",
+      "image": "/images/blueberry-muffin.jpg",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Avocado Toast",
+      "description": "Smashed avocado on artisanal sourdough",
+      "price": 65.00,
+      "category": "food",
+      "image": "/images/avocado-toast.jpg",
+      "inStock": false
+    }
+  ]
+}

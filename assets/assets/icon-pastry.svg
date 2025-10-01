@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Pastry icon">
+  <rect width="128" height="128" rx="16" fill="#FFF8E6"/>
+  <g transform="translate(12 32)">
+    <path d="M 52 12 c 22 0 40 18 40 40 h -8 c 0 -18 -14 -32 -32 -32 s -32 14 -32 32 h -8 c 0 -22 18 -40 40 -40 z"
+          fill="#FFCC80" stroke="#8D6E63" stroke-width="3"/>
+    <path d="M 16 52 h 80 c 0 8 -6 12 -16 12 H 32 c -10 0 -16 -4 -16 -12 z" fill="#FFE0B2" stroke="#8D6E63" stroke-width="3"/>
+    <circle cx="36" cy="44" r="2" fill="#8D6E63"/>
+    <circle cx="52" cy="42" r="2" fill="#8D6E63"/>
+    <circle cx="68" cy="46" r="2" fill="#8D6E63"/>
+  </g>
+</svg>
+

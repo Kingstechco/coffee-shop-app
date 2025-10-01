@@ -1,0 +1,3 @@
+@echo off
+echo Starting Coffee Shop App...
+npx next dev

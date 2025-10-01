@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Tea cup icon">
+  <rect width="128" height="128" rx="16" fill="#F4FBF6"/>
+  <g transform="translate(16 28)">
+    <rect x="12" y="32" width="56" height="36" rx="8" fill="#FFFFFF" stroke="#2E7D32" stroke-width="3"/>
+    <path d="M 68 40 h 14 a 12 12 0 0 1 0 24 h -14" fill="none" stroke="#2E7D32" stroke-width="3"/>
+    <path d="M 40 46 c 6 -10 18 -10 24 0 c -6 10 -18 10 -24 0 z" fill="#A5D6A7" stroke="#2E7D32" stroke-width="2"/>
+    <path d="M 28 16 c 0 -8 10 -8 10 -16" fill="none" stroke="#2E7D32" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
+
